@@ -5,10 +5,7 @@
   "description": "Leaf templating language code completion and highlighting package",
   "keywords": ["leaf", "vapor", "code", "highlight", "complete"
   ],
-  "activationCommands": {
-    "atom-workspace": "language-leaf-atom:toggle"
-  },
-  "repository": "https://github.com/atom/language-leaf-atom",
+  "repository": "https://github.com/daniilkorotin/language-leaf-atom.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

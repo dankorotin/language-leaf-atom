@@ -1,0 +1,7 @@
+name: 'Leaf'
+scopeName: 'text.html.leaf'
+type: 'tree-sitter'
+parser: 'tree-sitter-leaf'
+fileTypes: ['leaf']
+scopes:
+  'variable_definition > variable': 'builtin.variable'
