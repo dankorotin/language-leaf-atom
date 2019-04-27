@@ -1,9 +1,14 @@
 {
-  "name": "language-leaf-atom",
+  "name": "Leaf",
   "main": "./lib/language-leaf-atom",
   "version": "0.0.1",
   "description": "Leaf templating language code completion and highlighting package",
-  "keywords": ["leaf", "vapor", "code", "highlight", "complete"
+  "keywords": [
+    "leaf",
+    "vapor",
+    "code",
+    "highlight",
+    "complete"
   ],
   "repository": "https://github.com/daniilkorotin/language-leaf-atom.git",
   "license": "MIT",
@@ -11,5 +16,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "tree-sitter-leaf": "^0.0.2"
   }
 }
