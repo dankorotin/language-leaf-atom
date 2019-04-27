@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "language-leaf-atom",
+          "label": "Leaf",
           "submenu": [
             {
               "label": "Toggle",

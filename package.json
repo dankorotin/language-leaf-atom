@@ -1,5 +1,5 @@
 {
-  "name": "Leaf",
+  "name": "language-leaf-atom",
   "main": "./lib/language-leaf-atom",
   "version": "0.0.1",
   "description": "Leaf templating language code completion and highlighting package",
