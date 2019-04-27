@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle language-leaf-atom",
+        "command": "language-leaf-atom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "language-leaf-atom",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "language-leaf-atom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
