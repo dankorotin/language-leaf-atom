@@ -4,4 +4,11 @@ type: 'tree-sitter'
 parser: 'tree-sitter-leaf'
 fileTypes: ['leaf']
 scopes:
-  'variable_definition > variable': 'builtin.variable'
+  'junk_definition': 'none'
+  'variable_definition': 'keyword'
+  'tag_definition': 'keyword'
+  'tag_definition > name': 'keyword'
+  'tag_definition > name > identifier': 'meta.selector'
+  'identifier': 'variable'
+  'string_parameter': 'string'
+  'operator_parameter': 'selector'

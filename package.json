@@ -1,7 +1,7 @@
 {
   "name": "language-leaf-atom",
   "main": "./lib/language-leaf-atom",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Leaf templating language code completion and highlighting package",
   "keywords": [
     "leaf",
@@ -16,6 +16,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "tree-sitter-leaf": "^0.0.2"
+    "tree-sitter-leaf": "^1.0.0"
   }
 }
