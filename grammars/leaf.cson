@@ -5,7 +5,7 @@ parser: 'tree-sitter-leaf'
 fileTypes: ['leaf']
 injectionRegex: 'leaf|Leaf'
 scopes:
-  # 'raw_text': 'none'
+  'raw_text': 'none'
   'tag': 'keyword'
   'tag > name': 'keyword'
   'tag > name > identifier': 'meta.selector'
