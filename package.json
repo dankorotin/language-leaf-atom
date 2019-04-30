@@ -1,7 +1,7 @@
 {
   "name": "language-leaf-atom",
   "main": "./lib/language-leaf-atom",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Leaf templating language code completion and highlighting package",
   "keywords": [
     "leaf",
