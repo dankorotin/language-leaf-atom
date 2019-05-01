@@ -16,6 +16,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "tree-sitter-leaf": "^0.3.1"
+    "tree-sitter-leaf": "^0.3.4"
   }
 }

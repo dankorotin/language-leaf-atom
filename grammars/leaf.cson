@@ -6,6 +6,7 @@ fileTypes: ['leaf']
 injectionRegex: 'leaf|Leaf'
 scopes:
   'raw_text': 'none'
+  'html': 'none'
   'comment': 'comment'
   'comment > raw_text': 'comment'
   'tag': 'variable'
