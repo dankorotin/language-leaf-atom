@@ -1,8 +1,8 @@
 {
   "name": "language-leaf-atom",
   "main": "./lib/language-leaf-atom",
-  "version": "0.1.7",
-  "description": "Leaf (Vapor templating language) support.",
+  "version": "0.2.0",
+  "description": "Syntax highlighting and autocompletion for Leaf (Vapor). Still under heavy construction: see repo for issues & current progress.",
   "keywords": [
     "leaf",
     "vapor",
