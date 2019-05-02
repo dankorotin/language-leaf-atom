@@ -1,7 +1,7 @@
 {
   "name": "language-leaf-atom",
   "main": "./lib/language-leaf-atom",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Syntax highlighting and autocompletion for Leaf 3. Still under heavy construction: see repo for issues & current progress. Leaf Kit support coming after syntax is established.",
   "keywords": [
     "leaf",
