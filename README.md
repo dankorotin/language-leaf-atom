@@ -4,7 +4,9 @@ Syntax highlighting and autocompletion for [Leaf 3](https://github.com/vapor/lea
 
 ## Installation
 
-Just get [Atom](https://www.atom.io), navigate to `Preferences > Install` and search for `leaf`. The package is called `language-leaf-atom`, should be the first one in the results.
+Just get [Atom](https://www.atom.io), and then:
+- either navigate to `Preferences > Install` and search for `leaf`. The package is called `language-leaf-atom`, should be the first one in the results...
+- ...or get it [here](https://atom.io/packages/language-leaf-atom).
 
 ## Features
 
