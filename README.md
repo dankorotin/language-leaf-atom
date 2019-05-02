@@ -10,7 +10,7 @@ Just get [Atom](https://www.atom.io), navigate to `Preferences > Install` and se
 
 ### 💡 Syntax highlighting
 
-In `.leaf` files will highlight Leaf tags, HTML and CSS. Works as intended (mostly, still need to handle some edge cases).
+In `.leaf` files will highlight Leaf tags, HTML and JS. Works as intended (mostly, still need to handle some edge cases).
 
 ### 💻 Code completion
 
