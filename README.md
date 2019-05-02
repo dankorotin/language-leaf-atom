@@ -16,7 +16,7 @@ In `.leaf` files will highlight Leaf tags, HTML and CSS. Works as intended (most
 
 In `.leaf` files will offer autocompletion for built-in Leaf tags (v.3 supported currently, will add Leaf Kit support after it becomes stable).
 
-Autocompletion should work for both `#tag` and `tag` variants (i.e., you don't need to type the `#` character first). You can tab through the parameters afterwards. Snippets with body (i.e., space between the `{` and `}` chracters) support tabbing inside it to further speed up the development.
+Autocompletion should work for both `#tag` and `tag` variants (i.e., you don't need to type the `#` character first). You can tab through the parameters afterwards. Snippets with body (i.e., space between the `{` and `}` chracters) support tabbing inside it to further speed up the development! 🥳
 
 ## Planned
 
