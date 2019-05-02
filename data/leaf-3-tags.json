@@ -76,7 +76,7 @@
 	},
 	{
 		"displayText": "contains(collection, item)",
-		"snippet": "lowercase(${1:collection}, ${2:item})",
+		"snippet": "contains(${1:collection}, ${2:item})",
 		"description": "Accepts an array and a value as its two parameters, and returns true if the array in parameter one contains the value in parameter two."
 	}
 ]
