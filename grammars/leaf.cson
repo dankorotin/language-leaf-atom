@@ -1,4 +1,4 @@
-name: 'Leaf'
+name: 'HTML (Leaf)'
 scopeName: 'text.html.leaf'
 type: 'tree-sitter'
 parser: 'tree-sitter-leaf'

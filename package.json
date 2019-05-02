@@ -1,8 +1,8 @@
 {
   "name": "language-leaf-atom",
   "main": "./lib/language-leaf-atom",
-  "version": "0.2.1",
-  "description": "Syntax highlighting and autocompletion for Leaf (Vapor). Still under heavy construction: see repo for issues & current progress.",
+  "version": "0.3.0",
+  "description": "Syntax highlighting and autocompletion for Leaf 3. Still under heavy construction: see repo for issues & current progress. Leaf Kit support coming after syntax is established.",
   "keywords": [
     "leaf",
     "vapor",
@@ -13,9 +13,16 @@
   "repository": "https://github.com/daniilkorotin/language-leaf-atom.git",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.15.0 <2.0.0"
   },
   "dependencies": {
     "tree-sitter-leaf": "^0.3.4"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "4.0.0": "getProvider"
+      }
+    }
   }
 }
