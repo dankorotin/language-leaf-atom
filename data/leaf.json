@@ -1,7 +1,57 @@
 [
 	{
+		"displayText": "#// Comment",
+		"snippet": "#// ${1:Comment}",
+		"description": "One line comment."
+	},
+	{
+		"displayText": "#/* Comment */",
+		"snippet": "#/* ${1:Comment} */",
+		"description": "Multiline comment."
+	},
+	{
 		"displayText": "#for(foo in bar)",
 		"snippet": "#for(${1:foo} in ${2:bar}) {\n\t${3:}\n}",
 		"description": "For loop."
+	},
+	{
+		"displayText": "#if(true)",
+		"snippet": "#if(${1:true}) {\n\t${2:}\n}",
+		"description": "If condition."
+	},
+	{
+		"displayText": "#if(true) else",
+		"snippet": "#if(${1:true}) {\n\t${2:}\n} else {\n\t\n}",
+		"description": "If/else condition."
+	},
+	{
+		"displayText": "#if(true) else if (true)",
+		"snippet": "#if(${1:true}) {\n\t${2:}\n} else if (${3:true}) {\n\t${4:}\n}",
+		"description": "If/else if condition."
+	},
+	{
+		"displayText": "#get(var)",
+		"snippet": "#get(${1:var})",
+		"description": "Get a variable."
+	},
+	{
+		"displayText": "#set(var)",
+		"snippet": "#set(${1:var})",
+		"description": "Set a variable."
+	},
+	{
+		"displayText": "#count(stuff)",
+		"snippet": "#count(${1:var})",
+		"description": "Returns the number of items in an array."
+	},
+	{
+		"displayText": "#embed(template)",
+		"snippet": "#embed(${1:template})",
+		"description": "Copy the contents of one template into another."
+	},
+	{
+		"displayText": "#date(now)",
+		"snippet": "#embed(${1:template})",
+		"description": "Copy the contents of one template into another."
 	}
 ]
