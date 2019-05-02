@@ -1,6 +1,6 @@
 [
 	{
-		"displayText": "#for(_ in _)",
+		"displayText": "#for(foo in bar)",
 		"snippet": "#for(${1:foo} in ${2:bar}) {\n\t${3:}\n}",
 		"description": "For loop."
 	}
