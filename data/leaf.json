@@ -1,7 +1,0 @@
-[
-	{
-		"displayText": "#for(_ in _)",
-		"snippet": "#for(${1:foo} in ${2:bar}) {\n}",
-		"description": "For loop."
-	}
-]
