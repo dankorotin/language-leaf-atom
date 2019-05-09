@@ -16,7 +16,7 @@
     "atom": ">=1.15.0 <2.0.0"
   },
   "dependencies": {
-    "tree-sitter-leaf": "^0.3.4"
+    "tree-sitter-leaf": "^0.4.1"
   },
   "providedServices": {
     "autocomplete.provider": {
